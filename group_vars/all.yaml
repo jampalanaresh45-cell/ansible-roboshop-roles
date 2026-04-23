@@ -1,2 +1,3 @@
 MONGODB_HOST: "mongodb.daws86s.store"
 REDIS_HOST: "redis.daws86s.store"
+CATALOGUE_HOST: "catalogue.daws86s.store"
